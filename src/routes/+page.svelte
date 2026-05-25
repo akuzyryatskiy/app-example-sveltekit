@@ -1,4 +1,4 @@
-<h1>SvelteKit Frontend Example</h1>
+<h1>Timeweb Cloud + SvelteKit = ❤️</h1>
 <p>Репозиторий: <strong>app-example-sveltekit</strong></p>
 <p>Это статический SvelteKit-проект (adapter-static) для frontend-деплоя.</p>
 <ul>
